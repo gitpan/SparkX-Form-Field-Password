@@ -1,0 +1,11 @@
+Changes
+MANIFEST
+Build.PL
+README
+lib/SparkX/Form/Field/Password.pm
+t/00-load.t
+t/01-mock.t
+t/pod-coverage.t
+t/pod.t
+Makefile.PL
+META.yml

@@ -1,0 +1,22 @@
+---
+name: SparkX-Form-Field-Password
+version: 0.1
+author:
+  - 'James Laver <sprintf qw(%s@%s.%s cpan jameslaver com)>'
+abstract: A password field for Spark::Form. Implements Spark::Form::Field::Role::MinLength
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+requires:
+  Any::Moose: 0
+  Spark::Form: '>=0.01'
+build_requires:
+  Test::More: 0
+provides:
+  SparkX::Form::Field::Password:
+    file: lib/SparkX/Form/Field/Password.pm
+    version: 0.1
+generated_by: Module::Build version 0.33
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4

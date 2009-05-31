@@ -1,0 +1,42 @@
+SparkX-Form-Field-Password
+
+A canned example password field for Spark::Form
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc SparkX::Form::Field::Password
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=SparkX-Form-Field-Password
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/SparkX-Form-Field-Password
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/SparkX-Form-Field-Password
+
+    Search CPAN
+        http://search.cpan.org/dist/SparkX-Form-Field-Password/
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2009 James Laver
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
